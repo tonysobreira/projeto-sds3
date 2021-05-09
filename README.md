@@ -11,21 +11,21 @@ Esta aplicação consiste em exibir um dashboard a partir de dados fornecidos po
 
 ## Layout mobile
 <div>
-<img src="https://github.com/tonysobreira/assets/blob/main/sds3/mob1.png" width="20%" height="20%">
-<img src="https://github.com/tonysobreira/assets/blob/main/sds3/mob2.png" width="20%" height="20%">
-<img src="https://github.com/tonysobreira/assets/blob/main/sds3/mob3.png" width="20%" height="20%">
-<img src="https://github.com/tonysobreira/assets/blob/main/sds3/mob4.png" width="20%" height="20%">
+<img src="https://github.com/tonysobreira/projeto-sds3/blob/main/assets/mob1.png" width="20%" height="20%">
+<img src="https://github.com/tonysobreira/projeto-sds3/blob/main/assets/mob2.png" width="20%" height="20%">
+<img src="https://github.com/tonysobreira/projeto-sds3/blob/main/assets/mob3.png" width="20%" height="20%">
+<img src="https://github.com/tonysobreira/projeto-sds3/blob/main/assets/mob4.png" width="20%" height="20%">
 </div>
 
 ## Layout web
 <div>
-<img src="https://github.com/tonysobreira/assets/blob/main/sds3/web1.png" width="50%" height="50%">
-<img src="https://github.com/tonysobreira/assets/blob/main/sds3/web2.png" width="50%" height="50%">
-<img src="https://github.com/tonysobreira/assets/blob/main/sds3/web3.png" width="50%" height="50%">
+<img src="https://github.com/tonysobreira/projeto-sds3/blob/main/assets/web1.png" width="50%" height="50%">
+<img src="https://github.com/tonysobreira/projeto-sds3/blob/main/assets/web2.png" width="50%" height="50%">
+<img src="https://github.com/tonysobreira/projeto-sds3/blob/main/assets/web3.png" width="50%" height="50%">
 </div>
 
 ## Modelo conceitual
-![Modelo Conceitual](https://github.com/tonysobreira/assets/blob/main/sds3/sds3-mc.png)
+![Modelo Conceitual](https://github.com/tonysobreira/projeto-sds3/blob/main/assets/sds3-mc.png)
 
 # Tecnologias utilizadas
 ## Back end
