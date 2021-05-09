@@ -1,13 +1,13 @@
-# DS Vendas
+# DSVendas
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/tonysobreira/projeto-sds3/blob/main/LICENSE) 
 
 # Sobre o projeto
 
 https://tony-dsvendas.netlify.app/
 
-DS Vendas é uma aplicação full stack web construída durante a 3ª edição da **Semana DevSuperior** (#sds3), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
+DSVendas é uma aplicação full stack web construída durante a 3ª edição da **Semana DevSuperior** (#sds3), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
-A aplicação consiste em mostrar a eficiência de vendedores e depois são listados na aplicação web, que também apresenta um dashboard com gráficos e uma tabela baseados nestes dados.
+Esta aplicação consiste em exibir um dashboard a partir de dados fornecidos por um back end construído com Spring Boot.
 
 ## Layout mobile
 <div>
